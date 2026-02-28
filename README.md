@@ -10,7 +10,7 @@ index.html
   body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-image: url("https://images.unsplash.com/photo-1500530855697-b586d89ba3ee](https://fresh-brown-snscsjsjpl.edgeone.app/1759188359397.jpg");
+    background-image: url("[https://images.unsplash.com/photo-1500530855697-b586d89ba3ee](https://fresh-brown-snscsjsjpl.edgeone.app/1759188359397.jpg](https://ibb.co/tTjLN0Z7)");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
