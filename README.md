@@ -1,6 +1,3 @@
-GeoTagPortal
-│
-└── index.html
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -211,3 +208,4 @@ GeoTagPortal
   </script>
 </body>
 </html>
+](https://leandrotecson45-glitch.github.io/GeoTagPortal/)
