@@ -7,14 +7,28 @@ index.html
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.5.25/jspdf.plugin.autotable.min.js"></script>
   <style>
-    body { font-family: Arial; background: #f2f4f8; text-align: center; padding: 30px; }
-    .container { max-width: 750px; margin: auto; background: white; padding: 25px; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); }
-    #photoList { text-align: left; margin-top: 15px; font-weight: bold; }
-    #distanceInfo { margin-top: 10px; font-weight: bold; }
-    button { margin: 10px 5px 10px 0; padding: 10px 20px; background: #4285F4; color: white; border: none; border-radius: 8px; cursor: pointer; }
-    button:hover { background: #3367d6; }
-    #mapPreview { margin-top: 20px; width: 100%; height: 400px; border-radius: 12px; border: 1px solid #ccc; }
-  </style>
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-image: url("https://images.unsplash.com/photo-1500530855697-b586d89ba3ee");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+  }
+
+  .container {
+    background: rgba(255, 255, 255, 0.9);
+    max-width: 800px;
+    margin: 80px auto;
+    padding: 30px;
+    border-radius: 15px;
+    text-align: center;
+  }
+
+  h1 {
+    margin-bottom: 20px;
+  }
+</style>
 </head>
 <body>
   <div class="container">
